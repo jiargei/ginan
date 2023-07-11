@@ -60,18 +60,18 @@
 <title>Node1&#45;&gt;Node6</title>
 <path fill="none" stroke="midnightblue" d="M62.19,-61.81C73.82,-59.81 87.33,-57.49 99.92,-55.32"/>
 </g>
-<!-- Node9 -->
+<!-- Node7 -->
 <g id="node5" class="node">
-<title>Node9</title>
+<title>Node7</title>
 <g id="a_node5"><a xlink:href="GNSSambres_8cpp.html#aab3dd27d035c545c6c854a6906616e79" target="_top" xlink:title="Lambda algorithm and its variations (ILQ, Common set, BIE)">
 <polygon fill="white" stroke="red" points="98,-0.5 98,-19.5 189,-19.5 189,-0.5 98,-0.5"/>
 <text text-anchor="middle" x="143.5" y="-7.5" font-family="Helvetica,sans-Serif" font-size="10.00">lambda_search</text>
 </a>
 </g>
 </g>
-<!-- Node1&#45;&gt;Node9 -->
+<!-- Node1&#45;&gt;Node7 -->
 <g id="edge5" class="edge">
-<title>Node1&#45;&gt;Node9</title>
+<title>Node1&#45;&gt;Node7</title>
 <path fill="none" stroke="midnightblue" d="M47.45,-57.41C60.65,-49.38 80.26,-37.86 98,-29 104.61,-25.7 111.94,-22.42 118.71,-19.54"/>
 </g>
 <!-- Node6&#45;&gt;Node5 -->
